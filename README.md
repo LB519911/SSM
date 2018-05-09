@@ -4,3 +4,7 @@
 在db.properties配置数据源
 
 src下的包一定要和spring配置文件包名保持一致
+
+
+
+没有在mybatis中配置分页插件配置
